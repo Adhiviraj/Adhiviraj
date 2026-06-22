@@ -3,20 +3,23 @@ name: Update LeetCode Stats
 on:
   schedule:
     - cron: '0 0 * * *' # Runs automatically every day at midnight
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # Allows you to run it manually anytime
 
 permissions:
-  contents: write # 👈 This explicitly gives GitHub Actions permission to update your README
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v4 # Updated to stable v4 node runtimes
+        uses: actions/checkout@v4
 
       - name: Update LeetCode Stats inside README
         uses: joshcai/leetcode-sync@v1.1
         with:
           username: adhiviraj
           style: tokyonight
+          # 💡 These reference the secret tokens you must add to your GitHub repository settings
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          leetcode-csrf: ${{ secrets.LEETCODE_CSRF }}
