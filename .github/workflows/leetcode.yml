@@ -3,17 +3,20 @@ name: Update LeetCode Stats
 on:
   schedule:
     - cron: '0 0 * * *' # Runs automatically every day at midnight
-  workflow_dispatch: # Allows you to run it manually anytime
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write # 👈 This explicitly gives GitHub Actions permission to update your README
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Updated to stable v4 node runtimes
 
       - name: Update LeetCode Stats inside README
         uses: joshcai/leetcode-sync@v1.1
         with:
           username: adhiviraj
-          style: tokyonight # Matches your aesthetic perfectly
+          style: tokyonight
