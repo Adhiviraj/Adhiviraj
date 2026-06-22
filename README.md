@@ -78,14 +78,8 @@ I'm a 2nd-year Electronics & Communication Engineering student passionate about:
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="middle" bgcolor="#1a1b26" style="border-radius: 10px; padding: 20px;">
-      <a href="https://leetcode.com/u/adhiviraj" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-Profile_Dashboard-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-      </a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Dynamic_Target-300_Problems-blueviolet?style=flat-square&logo=target" alt="Target" />
-      <br/>
-      <img src="https://img.shields.io/badge/Current_Focus-DSA_Roadmap_2026-success?style=flat-square" alt="Focus" />
+    <td width="50%" align="center" valign="middle">
+      <img src="https://leetcode-stats-card.vercel.app/api?username=adhiviraj&theme=dark" alt="LeetCode Stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiviraj&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
