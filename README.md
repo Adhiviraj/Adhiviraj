@@ -79,7 +79,7 @@ I'm a 2nd-year Electronics & Communication Engineering student passionate about:
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://leetcode-stats.vercel.app/api?username=adhiviraj&theme=Dark" alt="LeetCode Stats" width="100%" />
+      <img src="https://github-readme-leetcode.vercel.app/api?username=adhiviraj&theme=tokyonight&ext=nil" alt="LeetCode Stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhiviraj&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
