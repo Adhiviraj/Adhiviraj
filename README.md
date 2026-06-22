@@ -11,7 +11,7 @@ Python • C++ • Git | Open-source Beginner**
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Adhiviraj/Adhiviraj/output/github-snake.svg)
+![Snake](https://raw.githubusercontent.com/Adhiviraj/Adhiviraj/output/github-snake.svg)
 
 
 # 📊 GitHub Stats:
