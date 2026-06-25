@@ -1,7 +1,17 @@
 name: Generate Snake
 
 on:
+  # Automatically runs every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Keeps the manual "Run workflow" button in your Actions tab
   workflow_dispatch:
+
+  # Optional: Also runs whenever you push changes to your main branch
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
