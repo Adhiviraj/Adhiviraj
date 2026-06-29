@@ -98,7 +98,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=Adhiviraj&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Adhiviraj&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhiviraj&theme=tokyonight" alt="GitHub Streak" width="100%" />
