@@ -1,10 +1,27 @@
+<div align="center">
+  <h3><code>adhiviraj@github ~ $ ./contributions.sh</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap" />
+  
+  <br><br>
+  
+  <h3><code>adhiviraj@github ~ $ whoami</code></h3>
+  <table>
+    <tr>
+      <td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII Portrait" /></td>
+      <td valign="top"><img src="./info-card.svg" width="490" alt="Neofetch Info Card" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 # 👋 Hi, I'm Adhiviraj Pal
 
 <table border="0" width="100%">
   <tr>
     <td width="65%" valign="top">
       <h3>🎓 ECE Undergraduate & AI/ML Learner</h3>
-      <p>I am a 3nd-year Electronics & Communication Engineering student driven by building intelligent applications and solving complex computational problems. I bridge the gap between hardware engineering foundations and modern software paradigms.</p>
+      <p>I am a 3rd-year Electronics & Communication Engineering student driven by building intelligent applications and solving complex computational problems. I bridge the gap between hardware engineering foundations and modern software paradigms.</p>
       <p><b>⚡ What I do:</b> Build robust backends, train machine learning architectures, and dive deep into algorithmic optimization.</p>
     </td>
     <td width="35%" align="center" valign="middle">
