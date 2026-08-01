@@ -233,7 +233,7 @@ A recommendation engine that maps "what I actually need a laptop for" to a ranke
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=Adhiviraj&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7EE787&text_color=c9d1d9&ring_color=A371F7" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhiviraj&hide_border=true&background=0D1117&stroke=58A6FF&ring=A371F7&fire=F778BA&currStreakLabel=7EE787&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhiviraj&hide_border=true&background=0D1117&stroke=58A6FF&ring=A371F7&fire=F778BA&currStreakNum=F0F6FC&currStreakLabel=7EE787&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Adhiviraj&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="100%"/>
 
