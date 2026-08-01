@@ -315,18 +315,33 @@ A recommendation engine that maps "what I actually need a laptop for" to a ranke
 
 <div align="center">
 
-Reach out for backend/AI collab, open-source work, or if you also think RFID readers are underrated project material.
+<img src="https://img.shields.io/badge/-58A6FF?style=flat-square&color=0D1117" width="60"/>
 
-<a href="mailto:paladhiviraj@gmail.com"><img src="https://img.shields.io/badge/paladhiviraj%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=F778BA"/></a>
-<a href="https://linkedin.com/in/adhiviraj-pal-4a4688308"><img src="https://img.shields.io/badge/Adhiviraj_Pal-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
-<a href="https://x.com/Adhiviraj007"><img src="https://img.shields.io/badge/%40Adhiviraj007-0D1117?style=for-the-badge&logo=x&logoColor=A371F7"/></a>
+If you're building backend systems, training something that shouldn't work but does, or you also think an RFID reader deserves more respect as a project component — I'd like to hear about it.
+
+<br/>
+
+<a href="mailto:paladhiviraj@gmail.com">
+  <img src="https://img.shields.io/badge/paladhiviraj%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=F778BA&labelColor=0D1117"/>
+</a>
+<a href="https://linkedin.com/in/adhiviraj-pal-4a4688308">
+  <img src="https://img.shields.io/badge/Adhiviraj_Pal-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117"/>
+</a>
+<a href="https://x.com/Adhiviraj007">
+  <img src="https://img.shields.io/badge/%40Adhiviraj007-0D1117?style=for-the-badge&logo=x&logoColor=A371F7&labelColor=0D1117"/>
+</a>
+<a href="https://github.com/Adhiviraj">
+  <img src="https://img.shields.io/badge/Adhiviraj-0D1117?style=for-the-badge&logo=github&logoColor=7EE787&labelColor=0D1117"/>
+</a>
 
 <br/><br/>
 
-<sub>Why do backend devs prefer dark mode? Because light attracts bugs.</sub>
+`git commit -m "still figuring out the perfect commit message"`
 
-<br/><br/>
+<sub>Thanks for reading all the way down — that's rarer than a clean git history.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:58A6FF,100:0D1117&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:58A6FF,100:A371F7&height=140&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
