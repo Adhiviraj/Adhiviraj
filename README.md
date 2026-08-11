@@ -239,7 +239,7 @@ A recommendation engine that maps "what I actually need a laptop for" to a ranke
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhiviraj&theme=react-dark&bg_color=0D1117&color=58A6FF&line=7EE787&point=F778BA&hide_border=true&area=true" width="100%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhiviraj&theme=react-dark&bg_color=0D1117&color=58A6FF&line=7EE787&point=F778BA&hide_border=true&area=true" width="100%"/> -->
 
 </div>
 
@@ -289,21 +289,6 @@ A recommendation engine that maps "what I actually need a laptop for" to a ranke
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 🗺️ Current Roadmap
-
-- [x] Solid fundamentals in C, C++, Python
-- [x] Full-stack basics — React, Next.js, FastAPI, Django
-- [x] First real CV project (YOLOv8 + ResNet18)
-- [ ] System Design — HLD/LLD, scaling patterns, caching, queues
-- [ ] Machine Learning — deeper into model deployment, not just training
-- [ ] Open Source — land first meaningful PR, then a GSoC attempt
-- [ ] LeetCode — consistent daily solving, contest participation
-- [ ] Deployment — Docker + CI/CD pipelines, cloud-hosted projects end-to-end
-
-<br/>
 
 ## 💭 Developer Philosophy
 
