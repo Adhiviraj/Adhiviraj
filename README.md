@@ -239,8 +239,6 @@ A recommendation engine that maps "what I actually need a laptop for" to a ranke
 
 <br/><br/>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhiviraj&theme=react-dark&bg_color=0D1117&color=58A6FF&line=7EE787&point=F778BA&hide_border=true&area=true" width="100%"/> -->
-
 </div>
 
 ### 🐍 Contribution Activity
